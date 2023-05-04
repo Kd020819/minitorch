@@ -8,7 +8,7 @@ from typing import Callable, Iterable
 # ## Task 0.1
 #
 # Implementation of a prelude of elementary functions.
-
+# Test git connection 
 
 def mul(x: float, y: float) -> float:
     "$f(x, y) = x * y$"
